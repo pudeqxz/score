@@ -1,0 +1,4 @@
+create database abc; 
+use abc;
+create table zhuce(username varchar(20),password varchar(20))ENGINE=InnoDB DEFAULT CHARSET=utf8;
+create table jifen(name1 varchar(20),score1 varchar(20),name2 varchar(20),score2 varchar(20),time varchar(20))ENGINE=InnoDB DEFAULT CHARSET=utf8;
